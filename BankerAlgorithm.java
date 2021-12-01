@@ -3,7 +3,7 @@ public class BankerAlgorithm {
 static int operation;
 static int sum[]=new int[3];
 static int available[]=new int [3];
-
+							//Test
 /*
  * [0] Allocated for A
  * [1] Allocated for B
